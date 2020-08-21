@@ -67,3 +67,5 @@ The original paper by Harrish Thasarathan, Kamyar Nazeri and Mehran Ebrahimi (20
 ## Known issues
 
 * The code is not compatible with CPU mode as of 2019-06-21
+
+As seen on https://top10.digital/ with full credits to the original authors 
